@@ -1,4 +1,4 @@
-console.log("Welcome to My Webpage!");
+console.log("Welcome to Webpage!");
 
 // Add event listener to header
 document.querySelector("header").addEventListener("click", () => {
